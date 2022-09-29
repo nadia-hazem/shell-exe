@@ -1,5 +1,5 @@
 #!/bin/bash
-for i in 1 2 3 4 5 6 7 8 9 10
+for ((a=1; a < 11; a++))
 do
-	echo "Je suis un script qui arrive à faire une boucle $i"
+	echo "Je suis un script qui arrive à faire une boucle $a"
 done
