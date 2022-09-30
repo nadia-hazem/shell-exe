@@ -1,0 +1,6 @@
+#!/bin/bash
+
+# /var/log/wtmp
+
+# grep 'nedh' /var/log/wtmp
+ > number_connection-$DATE 
